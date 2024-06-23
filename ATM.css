@@ -1,0 +1,90 @@
+.l1{
+    height:1100px;
+    width:1600px;
+    border-radius:25px;
+    margin:auto;
+    margin-top: 15%;
+}
+body{
+    background-image: url('back.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.card{
+    margin:auto;
+    margin-top: auto;
+    display:flex;
+    margin:15px;
+}
+.s{
+    width:190px;
+    height:120px;
+}
+.sbi{
+    position:absolute;
+    top:780px;
+    left:2950px;
+}
+.c{
+    width:290px;
+    height:150px;
+    border-radius: 45px;
+}
+.chip{
+    position: absolute;
+    top:1100px;
+    left:1720px;
+}
+.cardnum{
+    position: absolute;
+    top:1320px;
+    left:1850px;
+    font-weight: bolder;
+    font-size: 110px;
+    color:purple;
+}
+.name{
+    position: absolute;
+    top:1450px;
+    left:1850px;
+    font-size: 90px;
+    font-weight: bold;
+    color:black;
+}
+.exp{
+    position: absolute;
+    top:1560px;
+    left:2550px;
+    font-weight: bold;
+    font-size: 70px;
+}
+.t{
+    width: 310px;
+    height:110px;
+    border-radius: 13px;
+}
+.type{
+    position: absolute;
+    top:1660px;
+    left:2870px;
+}
+.ver{
+    writing-mode: vertical-lr;
+    transform: rotate(180deg);
+    font-weight: bold;
+    font-size:55px;
+    color:black;
+    position: absolute;
+    top:1350px;
+    left:1670px;
+}
+.l2{
+    opacity:35%;
+    width:650px;
+    height:280px
+}
+.logo2{
+    position: absolute;
+    top:800px;
+    left:1720px;
+}
